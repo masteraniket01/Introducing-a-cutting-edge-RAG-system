@@ -15,3 +15,6 @@ Why is this a game-changer? Because RAG doesn't just provide answers; it crafts 
 Ask a question, and you'll receive a comprehensive, logical answer that leaves no stone unturned.
 
 #DataScience #AI #MachineLearning #ArtificialIntelligence #Gemini #AIEngineering #streamlit
+
+![image](https://github.com/masteraniket01/Introducing-a-cutting-edge-RAG-system/assets/135361721/3f59cc05-c7d9-45db-8123-b94cad7fb5bf)
+
